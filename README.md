@@ -1,4 +1,4 @@
-# Recent 5 Projects in 2020
+# Last 5 Projects in 2020
 
 ## Summer: July - August
 
