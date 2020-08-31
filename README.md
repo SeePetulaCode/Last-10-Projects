@@ -8,7 +8,7 @@
 
 #### 1. [Portfolio](https://seepetulacode.github.io/) - [Code](https://github.com/SeePetulaCode/SeePetulaCode.github.io) - (JS/HTML/CSS)
 
-#### 2. [Snap Bitmoji Snake Game](https://petula-snakegame.glitch.me/) - [Code](https://github.com/SeePetulaCode/eden_snake_game) ( JS/HTML/CSS)
+#### 2. [Snap Bitmoji Snake Game](https://petula-snakegame.glitch.me/) - [Code](https://github.com/SeePetulaCode/eden_snake_game) (JS/HTML/CSS)
 
 #### 3. [WebChat](https://awebchat-e2a62.web.app/) - [Code](https://github.com/SeePetulaCode/A-firebase-web-chat) (JS/HTML/CSS/Node.JS/Firebase)
 
