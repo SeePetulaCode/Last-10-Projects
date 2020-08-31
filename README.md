@@ -6,11 +6,11 @@
 
 ### 1. [Portfolio](https://seepetulacode.github.io/) - [Code](https://github.com/SeePetulaCode/SeePetulaCode.github.io) - In Progress(JS/HTML/CSS)
 
-### 2. [Snap Bitmoji Snake Game](https://petula-snakegame.glitch.me/) - [Code](https://github.com/SeePetulaCode/eden_snake_game)- (JS/HTML/CSS)
+### 2. [Snap Bitmoji Snake Game](https://petula-snakegame.glitch.me/) - [Code](https://github.com/SeePetulaCode/eden_snake_game)(JS/HTML/CSS)
 
-### 3. [WebChat](https://awebchat-e2a62.web.app/) - [Code](https://github.com/SeePetulaCode/A-firebase-web-chat)- (JS/HTML/CSS/Node.JS/Firebase)
+### 3. [WebChat](https://awebchat-e2a62.web.app/) - [Code](https://github.com/SeePetulaCode/A-firebase-web-chat)(JS/HTML/CSS/Node.JS/Firebase)
 
-### 4. [SnapObservatory](http://project-north-star.herokuapp.com/signup)(Team project/Prototype V1) - [Code](https://github.com/Sebastian-git/north-star) - (JS/HTML/CSS/Node.JS/Firebase)
+### 4. [SnapObservatory](http://project-north-star.herokuapp.com/signup)(Team project/Prototype V1) - [Code](https://github.com/Sebastian-git/north-star) - (JS/HTML/CSS/Node.JS/Firebase/Heroku)
 
 ​     *Role: Designer and Front-End Developer*
 
