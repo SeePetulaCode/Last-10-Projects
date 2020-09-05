@@ -21,4 +21,6 @@
 
 ## Fall: September - December
 
+#### 5. TipIn - Tip Calculator(V1) - [Code](https://github.com/SeePetulaCode/TipIn) (Swift)
+
 **Pending**
