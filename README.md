@@ -22,5 +22,6 @@
 ## Fall: September - December
 
 #### 5. TipIn - Tip Calculator(V1) - [Code](https://github.com/SeePetulaCode/TipIn) (Swift)
+#### 6. Movie App(V1 - In Progress) - [Code](https://github.com/SeePetulaCode/Flixology) (Swift)
 
 **Pending**
